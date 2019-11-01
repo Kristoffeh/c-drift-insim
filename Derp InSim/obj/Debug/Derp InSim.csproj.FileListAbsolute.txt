@@ -1,0 +1,22 @@
+D:\Sync\#C Cruise InSim\Derp InSim\bin\Debug\Derp InSim.exe.config
+D:\Sync\#C Cruise InSim\Derp InSim\bin\Debug\Derp InSim.exe
+D:\Sync\#C Cruise InSim\Derp InSim\bin\Debug\Derp InSim.pdb
+D:\Sync\#C Cruise InSim\Derp InSim\bin\Debug\InSimDotNet.dll
+D:\Sync\#C Cruise InSim\Derp InSim\bin\Debug\MySql.Data.dll
+D:\Sync\#C Cruise InSim\Derp InSim\obj\Debug\Derp InSim.csprojResolveAssemblyReference.cache
+D:\Sync\#C Cruise InSim\Derp InSim\obj\Debug\Derp_InSim.Form1.resources
+D:\Sync\#C Cruise InSim\Derp InSim\obj\Debug\Derp_InSim.Properties.Resources.resources
+D:\Sync\#C Cruise InSim\Derp InSim\obj\Debug\Derp InSim.csproj.GenerateResource.Cache
+D:\Sync\#C Cruise InSim\Derp InSim\obj\Debug\Derp InSim.exe
+D:\Sync\#C Cruise InSim\Derp InSim\obj\Debug\Derp InSim.pdb
+D:\Sync\#C Drift InSim\Derp InSim\bin\Debug\Derp InSim.exe.config
+D:\Sync\#C Drift InSim\Derp InSim\obj\Debug\Derp InSim.exe
+D:\Sync\#C Drift InSim\Derp InSim\obj\Debug\Derp InSim.pdb
+D:\Sync\#C Drift InSim\Derp InSim\bin\Debug\Derp InSim.exe
+D:\Sync\#C Drift InSim\Derp InSim\bin\Debug\Derp InSim.pdb
+D:\Sync\#C Drift InSim\Derp InSim\bin\Debug\InSimDotNet.dll
+D:\Sync\#C Drift InSim\Derp InSim\bin\Debug\MySql.Data.dll
+D:\Sync\#C Drift InSim\Derp InSim\obj\Debug\Derp InSim.csprojResolveAssemblyReference.cache
+D:\Sync\#C Drift InSim\Derp InSim\obj\Debug\Derp_InSim.Form1.resources
+D:\Sync\#C Drift InSim\Derp InSim\obj\Debug\Derp_InSim.Properties.Resources.resources
+D:\Sync\#C Drift InSim\Derp InSim\obj\Debug\Derp InSim.csproj.GenerateResource.Cache
